@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 datasets/data/
 datasets/celebA
+*.out
